@@ -20,10 +20,15 @@ category: Research
 
 <br><br>
 
+<h2>Web development</h2>
+
 In my work related to redbioma I was able to put into practice the knowledge I learned throughout my university education by setting up a web site for the network. It was made with <a href="https://jekyllrb.com/">JeKyll</a>, a free framework that has integration with <a href="https://pages.github.com/">GitHub Pages</a>, which makes it a solid option for the creation of static websites. Since a few months ago I have been in charge of maintaining the website, updating information and creating ways for the network to show the work done.
 
 <br><br>
 Feel free to see the website I was able to develop here: <a href="https://redbioma.github.io">https://redbioma.github.io</a>
+<br><br>
+<h2>Python classes</h2>
+I am currently developing with other colleagues a free Python for Data Science course for redbioma, a course that will be given to people from all over Mesoamerica, more information here: <a href="https://redbioma.github.io/cursos/python-ciencia-datos.html">Python for Data Science course program.</a>
 </div>
 
 
