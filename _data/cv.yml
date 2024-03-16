@@ -158,8 +158,8 @@
     - title: M.Sc. María Auxiliadora Mora Cross
       institution: Instituto Tecnológico de Costa Rica <a href='mailto:maria.mora@itcr.ac.cr'>maria.mora@itcr.ac.cr</a>
       
-    - title: MEd Jaime Gutiérrez Alfaro
-      institution: Instituto Tecnológico de Costa Rica <a href='mailto:jgutierrez@itcr.ac.cr'>jgutierrez@itcr.ac.cr</a>
+    # - title: MEd Jaime Gutiérrez Alfaro
+    #   institution: Instituto Tecnológico de Costa Rica <a href='mailto:jgutierrez@itcr.ac.cr'>jgutierrez@itcr.ac.cr</a>
 
     # - title: Ph.D. Kryscia Ramírez Benavides
     #   institution: Universidad de Costa Rica <a href='mailto:kryscia.ramirez@ucr.ac.cr'>kryscia.ramirez@ucr.ac.cr</a>
