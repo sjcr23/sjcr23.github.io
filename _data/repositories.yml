@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sjcr23
+  
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - redbioma/redbioma.github.io
+  - sjcr23/sjcr23.github.io
+  - sjcr23/BK-Survey-Automator
+  - sjcr23/Robot-Framework-Automation-Demo
