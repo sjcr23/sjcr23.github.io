@@ -15,7 +15,7 @@
   contents:
     - title: Bachelor’s degree in Computer Engineering
       institution: Instituto Tecnológico de Costa Rica
-      year: 2020 - now
+      year: 2020 - 2024
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -41,8 +41,9 @@
   contents:
     - title: Software Development Assistant
       institution: <a href="https://redbioma.github.io">redbioma</a>
-      year: 2023
+      year: 2023 - now
       description:
+        - I am currently teaching Python for Data Science at redbioma, giving classes to students from all over Mesoamerica. My strengths in the course focus on two areas; academic and administrative. I have been able to teach the basics of Python, OOP, NumPy, Pandas and GeoPandas. I have gained great experience in organizing course planning; with assignments, labs, projects, course evaluation surveys, among others.... Feel free to visit the course syllabus here <a href='https://redbioma.github.io/cursos/python-ciencia-datos.html'>redbioma.org.</a>
         - I was hired to develop a website for the RedBioma project using tools such as Jekyll and GitHub pages so that there is a global medium to publish works, news and publicize the project. The project is available at <a href='https://redbioma.github.io'>redbioma.org.</a>
         # - title: Description 3.
         #   contents:
@@ -53,8 +54,8 @@
       institution: Instituto Tecnológico de Costa Rica
       year: 2023 - now
       description:
-        - I worked on developing an Open Information Extraction (OIE) analysis from plant morphological descriptions in spanish, comparing different OIE models in order to study their similarities and differences to choose a roadmap for future projects.<br><br>
-        - One of the project's objectives is to create a Latin American biodiversity network. We decided that we wanted to empower women in computer science to lead future data science projects in said network. Due to that, I was part of a team that gave a free course as an introduction to Python for data science. Some of my responsibilities were preparing class material, such as presentations, homework and projects; giving master classes, etc.
+        - I am currently in the process of publishing an article in the 50th Latin American Conference on Informatics <a href="https://conferencia2024.clei.org/">(L CLEI 2024)</a>, which deals with the course taught with the Universidad Técnica Nacional (UTN), which talks about the gender gaps in computing present in Costa Rica and how the course positively affects it.
+        - I was part of an inter-university project between the Instituto Tecnológico de Costa Rica (ITCR) and the UTN. I taught Python for Data Science classes to UTN students. Some of my responsibilities were preparing class material, such as presentations, homework and projects; giving master classes, among others.
 
     - title: Research & Administrative Assistant - LabExp
       institution: Instituto Tecnológico de Costa Rica
@@ -78,7 +79,6 @@
         - Java
         - C, C#, C++
         - Dart
-        - Bash
         - NASM
     - title: Markup Languages
       items:
@@ -88,10 +88,12 @@
         - CSS
     - title: Libraries
       items:
+        - PyTorch
         - NumPy
         - Pandas
-        - PyTorch
-        - PyTest
+        - GeoPandas
+        - Matplotlib
+        - unittest
         - JDBC
         - JUnit
     - title: Frameworks
