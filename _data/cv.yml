@@ -39,8 +39,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Software Development Assistant
-      institution: <a href="https://redbioma.github.io">redbioma</a>
+    - title: Software Development Assistant - <a href="https://redbioma.github.io">redbioma</a>
+      institution: Instituto Tecnológico de Costa Rica
       year: 2023 - now
       description:
         - I am currently teaching Python for Data Science at redbioma, giving classes to students from all over Mesoamerica. My strengths in the course focus on two areas; academic and administrative. I have been able to teach the basics of Python, OOP, NumPy, Pandas and GeoPandas. I have gained great experience in organizing course planning; with assignments, labs, projects, course evaluation surveys, among others.... Feel free to visit the course syllabus here <a href='https://redbioma.github.io/cursos/python-ciencia-datos.html'>redbioma.org.</a>
@@ -77,9 +77,9 @@
       items: 
         - Python
         - Java
-        - C, C#, C++
+        - JavaScript
+        - C, C++
         - Dart
-        - NASM
     - title: Markup Languages
       items:
         - LaTex
