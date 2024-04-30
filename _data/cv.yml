@@ -93,6 +93,7 @@
         - Pandas
         - GeoPandas
         - Matplotlib
+        - Selenium Python
         - unittest
         - JDBC
         - JUnit
