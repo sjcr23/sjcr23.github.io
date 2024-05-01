@@ -1,7 +1,7 @@
 ---
 layout: page
 img: assets/img/teaching/math.jpg
-title: Lección N°3 NumPy y Vectores
+title: NumPy y vectores
 description: Introducción a la Orientación a Objetos y a la biblioteca Pandas
 cv_pdf: 3_NumPy, Vectores y Matrices.pdf
 importance: 2

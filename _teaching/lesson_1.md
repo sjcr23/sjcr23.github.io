@@ -1,7 +1,7 @@
 ---
 layout: page
 img: assets/img/projects/python.jpg
-title: Lección N°1 Fundamentos de Python
+title: Fundamentos de Python
 description: Introducción a conceptos básicos de Python. 
 cv_pdf: 1_Fundamentos de Python.pdf
 importance: 1

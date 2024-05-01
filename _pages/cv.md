@@ -9,4 +9,3 @@ cv_pdf: cv.pdf
 toc:
   sidebar: left
 ---
-

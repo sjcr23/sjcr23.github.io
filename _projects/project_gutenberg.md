@@ -16,7 +16,10 @@ This small project automates the task of downloading the top 100 books of the mo
 
 ---
 
-Project Gutenberg is an online library of free e-books, founded in 1971 by Michael Hart. Project Gutenberg is a non-profit initiative that seeks to digitize and distribute free public domain literary works [^1]. The project works thanks to the collaboration of thousands of volunteers from all over the world. These volunteers are in charge of digitizing the books, reviewing and correcting them to ensure the quality of the content. Its main objective is to democratize access to culture and knowledge, making available to anyone, anywhere in the world, a wide selection of classic and contemporary works. Project Gutenberg books can be freely downloaded in a variety of formats, including EPUB, MOBI, PDF and TXT. In addition, the library offers audiobooks for those who prefer to listen rather than read [^1].
+<div style="text-align:justify">
+Project Gutenberg is an online library of free e-books, founded in 1971 by Michael Hart. Project Gutenberg is a non-profit initiative that seeks to digitize and distribute free public domain literary works<a href="https://www.gutenberg.org/">¹</a>. The project works thanks to the collaboration of thousands of volunteers from all over the world. These volunteers are in charge of digitizing the books, reviewing and correcting them to ensure the quality of the content. Its main objective is to democratize access to culture and knowledge, making available to anyone, anywhere in the world, a wide selection of classic and contemporary works. Project Gutenberg books can be freely downloaded in a variety of formats, including EPUB, MOBI, PDF and TXT. In addition, the library offers audiobooks for those who prefer to listen rather than read<a href="https://www.gutenberg.org/">¹</a>.
+<br><br>
+</div>
 
 # Requirements
 
@@ -59,7 +62,7 @@ A script to download a certain list of books from [Project Gutenberg](https://ww
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/gutenberg_demo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/video/gutenberg_demo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 <div class="caption">
@@ -67,10 +70,5 @@ A script to download a certain list of books from [Project Gutenberg](https://ww
 </div>
 
 
-# References 
-
----
-
-[^1]:[Project Gutenberg is an online library of free eBooks.](https://www.gutenberg.org/)
 
 

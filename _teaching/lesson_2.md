@@ -1,7 +1,7 @@
 ---
 layout: page
 img: assets/img/teaching/pandas.jpg
-title: Lección N°2 Introducción a POO y Pandas
+title: POO & Pandas
 description: Introducción a la Orientación a Objetos y a la biblioteca Pandas
 cv_pdf: 2_Introducción a POO y Pandas.pdf
 importance: 2

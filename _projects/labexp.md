@@ -13,7 +13,7 @@ category: Research
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0" style="margin:auto">
-        {% include figure.html path="assets/img/LabExp.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/LabExp.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -29,12 +29,12 @@ Feel free to read this article I wrote about the importance of the [infrastructu
 #### Some videos about the project (Spanish)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/j8qEgQcnGgE?si=9fdz0Rya-VMZL2aX" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/j8qEgQcnGgE?si=9fdz0Rya-VMZL2aX" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/D0Mds5-GxLk?si=BorlSKF92-fpUqhU" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/D0Mds5-GxLk?si=BorlSKF92-fpUqhU" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://www.youtube.com/embed/R-sGu7EXKBM?si=3fXCcxxdtG1AMqpt" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/R-sGu7EXKBM?si=3fXCcxxdtG1AMqpt" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
